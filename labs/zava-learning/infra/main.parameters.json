@@ -14,7 +14,7 @@
 
     "injectLegacyDenyNsgLane": { "value": false },
     "seedAuditFindings": { "value": true },
-    "appgwLaneProbePath": { "value": "/health" },
+    "appgwLaneProbePath": { "value": "/status-ping" },
     "appLaneMinReplicas": { "value": 1 },
     "appLaneMaxReplicas": { "value": 3 },
 
